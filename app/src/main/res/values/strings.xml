@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">AndroidAcademy</string>
+
+    <string name="back">Back</string>
+    <string name="storyline">Storyline</string>
+    <string name="cast">Cast</string>
+
+    <plurals name="raiting_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <string name="tmp_age_rate_13">13+</string>
+    <string name="tmp_movie_name">Avengers:\nEnd Game</string>
+    <string name="tmp_movie_genre">Action, Adventure, Fantasy</string>
+    <string name="tmp_storyline_text">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+
+    <string name="cast_robert_downey">Robert Downey Jr.</string>
+    <string name="cast_chris_evans">Chris Evans</string>
+    <string name="cast_mark_ruffalo">Mark Ruffalo</string>
+    <string name="cast_chris_hemsworth">Chris Hemsworth</string>
+
 </resources>
